@@ -31,7 +31,7 @@ export default function ProductSection() {
             </div>
             <div className="pt-8">
               <Link
-                href="https://propflow.visionarytheo.co.za"
+                href="https://propflow.visionarytheo.co.za/auth/signin"
                 className="inline-block w-full text-center bg-indigo-600 hover:bg-indigo-500 text-white font-medium py-2.5 rounded-xl transition-all"
               >
                 Open Propflow &rarr;
@@ -67,7 +67,7 @@ export default function ProductSection() {
               Coming Soon
             </div>
             <div className="space-y-4">
-              <h3 className="text-2xl font-bold text-white">Cassieflow</h3>
+              <h3 className="text-2xl font-bold text-white">Kasiflow</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
                 Specialized workflow engine and data pipeline automation built
                 for complex enterprise organizational structures.
