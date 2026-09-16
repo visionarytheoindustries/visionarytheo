@@ -1,3 +1,4 @@
+// src/app/page.tsx
 import Navbar from "@/components/navbar";
 import HeroSection from "@/components/hero_section";
 import ProductSection from "@/components/product_section";

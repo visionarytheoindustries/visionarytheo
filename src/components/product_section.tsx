@@ -61,7 +61,7 @@ export default function ProductSection() {
             </div>
           </div>
 
-          {/* Cassieflow Card (Coming Soon) */}
+          {/* Kasiflow Card (Coming Soon) */}
           <div className="bg-slate-900/50 border border-slate-800 rounded-2xl p-8 flex flex-col justify-between relative opacity-75">
             <div className="absolute top-4 right-4 bg-slate-800 text-slate-400 text-xs px-2.5 py-0.5 rounded-full font-medium">
               Coming Soon
@@ -69,8 +69,8 @@ export default function ProductSection() {
             <div className="space-y-4">
               <h3 className="text-2xl font-bold text-white">Kasiflow</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
-                Specialized workflow engine and data pipeline automation built
-                for complex enterprise organizational structures.
+                Intelligent spaza shop inventory management, stock tracking, and
+                retail sales ledger built for local township enterprises.
               </p>
             </div>
             <div className="pt-8">
