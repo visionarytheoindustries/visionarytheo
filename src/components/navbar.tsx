@@ -22,7 +22,7 @@ export default function Navbar() {
         >
           <div className="relative w-12 h-12 flex items-center justify-center shrink-0">
             <Image
-              src="/VLogos/logo_light.svg"
+              src="/images/vlogos/logo_light.svg"
               alt="Visionarytheo Logo"
               fill
               priority
