@@ -9,9 +9,9 @@ export default function ProductSection() {
     >
       <div className="max-w-7xl mx-auto w-full space-y-12">
         <div className="text-center space-y-3">
-          <h2 className="text-3xl font-bold tracking-tight">Our Products</h2>
+          <h2 className="text-3xl font-bold tracking-tight text-white">Our Products</h2>
           <p className="text-slate-400 max-w-xl mx-auto">
-            Explore our suite of purpose-built business management platforms.
+            Explore our suite of purpose-built B2B administrative and productivity management platforms.
           </p>
         </div>
 
@@ -24,9 +24,7 @@ export default function ProductSection() {
             <div className="space-y-4">
               <h3 className="text-2xl font-bold text-white">Propflow</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
-                Advanced property management software featuring rent ledger
-                tracking, secure payment gateways, and automated operational
-                workflows.
+                Advanced property portfolio management productivity software featuring tenant administration, lease tracking, and internal operational workflows.
               </p>
             </div>
             <div className="pt-8">
@@ -47,8 +45,7 @@ export default function ProductSection() {
             <div className="space-y-4">
               <h3 className="text-2xl font-bold text-white">Eduflow</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
-                Streamlined educational administration, student tracking, and
-                billing architecture designed for modern learning institutions.
+                Streamlined educational administration, student tracking, and institutional workflow architecture designed for modern learning institutions.
               </p>
             </div>
             <div className="pt-8">
@@ -69,8 +66,7 @@ export default function ProductSection() {
             <div className="space-y-4">
               <h3 className="text-2xl font-bold text-white">Kasiflow</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
-                Intelligent spaza shop inventory management, stock tracking, and
-                retail sales ledger built for local township enterprises.
+                Intelligent spaza shop inventory management, stock tracking, and retail administrative organization built for local township enterprises.
               </p>
             </div>
             <div className="pt-8">

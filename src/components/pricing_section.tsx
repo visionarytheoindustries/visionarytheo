@@ -9,12 +9,12 @@ export default function PricingSection() {
     >
       <div className="max-w-7xl mx-auto w-full space-y-12">
         <div className="text-center space-y-3">
-          <h2 className="text-3xl font-bold tracking-tight">
-            Propflow Pricing Structure
+          <h2 className="text-3xl font-bold tracking-tight text-white">
+            Propflow Software Pricing
           </h2>
           <p className="text-slate-400 max-w-xl mx-auto">
-            Simple, scalable pricing built to grow seamlessly alongside your
-            portfolio.
+            Simple, scalable B2B software licensing built to grow seamlessly
+            alongside your operational portfolio.
           </p>
         </div>
 
@@ -27,9 +27,11 @@ export default function PricingSection() {
                 <div className="invisible px-3 py-1 text-xs font-semibold mb-1 select-none">
                   Placeholder
                 </div>
-                <h3 className="text-xl font-bold text-white">Standard Tier</h3>
+                <h3 className="text-xl font-bold text-white">
+                  Standard Software Tier
+                </h3>
                 <p className="text-slate-400 text-sm">
-                  Pay-as-you-go unit scaling with robust features.
+                  Flexible unit scaling with core administrative tools.
                 </p>
               </div>
 
@@ -41,15 +43,15 @@ export default function PricingSection() {
               <div className="border-t border-slate-800 pt-6 space-y-4 text-sm text-slate-300">
                 <div className="flex items-center space-x-3">
                   <span className="text-indigo-400 font-bold">✓</span>
-                  <span>Full Rent Ledger & Tracking</span>
+                  <span>Portfolio Operations & Tracking Log</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-indigo-400 font-bold">✓</span>
-                  <span>Automated Paystack SaaS Billing</span>
+                  <span>Automated Platform License Billing</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-indigo-400 font-bold">✓</span>
-                  <span>Tenant & Lease Management</span>
+                  <span>Tenant & Lease Documentation Tools</span>
                 </div>
               </div>
             </div>
@@ -76,7 +78,7 @@ export default function PricingSection() {
                   Compliance Vault
                 </h3>
                 <p className="text-slate-400 text-sm">
-                  Advanced compliance filing vault and secure document storage.
+                  Advanced regulatory filing vault and secure document storage.
                 </p>
               </div>
 
@@ -88,11 +90,11 @@ export default function PricingSection() {
               <div className="border-t border-slate-800 pt-6 space-y-4 text-sm text-slate-300">
                 <div className="flex items-center space-x-3">
                   <span className="text-purple-400 font-bold">✓</span>
-                  <span>Secure Compliance Filing Vault</span>
+                  <span>Secure Regulatory Filing Vault</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-purple-400 font-bold">✓</span>
-                  <span>Document Versioning & Audits</span>
+                  <span>Document Versioning & Audit Logs</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-purple-400 font-bold">✓</span>
@@ -112,15 +114,18 @@ export default function PricingSection() {
           </div>
         </div>
 
-        {/* Paystack Compliance Transparency Notice */}
+        {/* License Transparency Notice */}
         <div className="max-w-xl mx-auto text-center text-xs text-slate-500 space-y-1 pt-2">
           <p>
-            <span className="text-slate-300 font-medium">Free to sign up.</span>{" "}
-            No upfront payment required. Automated Paystack SaaS billing of{" "}
+            <span className="text-slate-300 font-medium">
+              Free workspace setup.
+            </span>{" "}
+            No upfront fees required. Automated platform software billing of{" "}
             <span className="text-slate-400 font-medium">
               R20 per unit/month
             </span>{" "}
-            only applies after you register units. Cancel anytime.
+            only applies after you activate digital unit management. Cancel
+            anytime.
           </p>
         </div>
       </div>
