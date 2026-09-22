@@ -20,7 +20,7 @@ export default function Navbar() {
           className="flex items-center space-x-3 cursor-pointer py-2"
           onClick={() => scrollToSection("hero")}
         >
-          <div className="relative w-12 h-12 flex items-center justify-center shrink-0">
+          <div className="relative w-18 h-18 flex items-center justify-center shrink-0">
             <Image
               src="/images/vlogos/logo_light.svg"
               alt="Visionarytheo Logo"
